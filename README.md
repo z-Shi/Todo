@@ -35,7 +35,7 @@ python manage.py runserver
 ```
 Now, you can verify that it is working correctly by going to: localhost:8000
 
-# FrontEnd
+# FrontEnd - React Web App
 Next, we need to run the front end app.
 Be sure to be in the correct directory, frontend:
 ```bash
@@ -50,7 +50,8 @@ Start Server:
 ```bash
 npm start
 ```
-From there, your app should be available at: https://localhost:3000
+From there, your app should be available at: https://localhost:3000   
+
 There is a yarn.lock file that can be used if you have yarn, simply run:
 ```bash
 yarn start
