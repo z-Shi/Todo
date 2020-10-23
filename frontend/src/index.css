@@ -17,6 +17,10 @@ body {
   text-decoration: line-through;
 }
 
+.bold {
+  font-weight: bold;
+}
+
 .tab-list > span {
   padding: 5px 8px;
   border: 1px solid #282c34;
